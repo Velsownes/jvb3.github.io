@@ -57,7 +57,8 @@
 
 .container .box .dream img{
    width: 100%;
-    margin: 20px 20px 20px 20px;
+   margin-top: 20px;
+   margin-bottom: 20px;
     border-radius: 15px;
     box-shadow: 2px 2px 10px black;
     -webkit-box-shadow: 2px 2px 10px black;
@@ -71,6 +72,9 @@
     }
     .container .box .dream{
         width: 100%;
+    }
+     .container .box .dream img{
+        margin-right: 20px;
     }
    
 }
